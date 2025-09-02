@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UrbanladderSuite"  parallel="tests" thread-count="2">
+
+ <listeners>
+        <listener class-name="com.urbanladder.rerun.RetryListener" />
+    </listeners>
+    <parameter name="browser" value="chrome"/>
+    
+    <test name="UrbanladderTest_Chrome" preserve-order="true">
+	    <parameter name="os" value="windows"/>
+	    <parameter name = "browser" value="chrome" />
+	        <classes>
+<!--	            <class name="com.urbanladder.tests.UrbanladderTest"/>-->
+				<class name="com.urbanladder.TestRunner.TestRunner"></class>
+	            
+	        </classes>
+	    </test>
+	    
+	   
+	    
+	    
+</suite>
+ 

@@ -1,0 +1,358 @@
+2025-09-02 09:34:51 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: chrome
+2025-09-02 09:34:51 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:34:51 [TestNG-tests-2] INFO  com.urbanladder.utils.ConfigReader - Configuration properties loaded successfully
+2025-09-02 09:34:51 [TestNG-tests-2] INFO  com.urbanladder.utils.ConfigReader - Allure properties loaded successfully
+2025-09-02 09:34:51 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:34:51 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:34:54 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:34:54 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:34:54 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:34:56 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:34:56 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:34:56 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:34:56 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - WebDriver initialized successfully for thread: TestNG-tests-1
+2025-09-02 09:34:56 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Launching browser and navigating to Urban Ladder home page.
+2025-09-02 09:34:56 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Navigating to application URL: https://www.urbanladder.com/
+2025-09-02 09:34:57 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:34:57 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:34:57 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:34:59 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:34:59 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:34:59 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:00 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:00 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:00 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:01 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Clicking on the profile icon.
+2025-09-02 09:35:01 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:35:01 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Clicking on the login option.
+2025-09-02 09:35:01 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:35:02 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:02 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:02 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:03 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:03 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:03 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:05 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Entering credentials and submitting the login form.
+2025-09-02 09:35:05 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:05 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:05 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:05 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully sent keys: chepurusahithi@gmail.com
+2025-09-02 09:35:05 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully sent keys: Sahithi@6281
+2025-09-02 09:35:06 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:06 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:06 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Verifying login success.
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Checking visibility of Facebook icon.
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully scrolled to element
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Facebook icon visible: true
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Checking visibility of Twitter icon.
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Twitter icon visible: true
+2025-09-02 09:35:07 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Clicking on the home logo.
+2025-09-02 09:35:08 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:08 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:08 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:09 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Current URL after clicking home logo: https://www.urbanladder.com/
+2025-09-02 09:35:09 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:09 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:09 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:09 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:35:09 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:35:09 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🌐 Launching browser and navigating to Urban Ladder home page.
+2025-09-02 09:35:09 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Navigating to application URL: https://www.urbanladder.com/
+2025-09-02 09:35:10 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🆘 Clicking on the Help link.
+2025-09-02 09:35:10 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:10 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:10 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:11 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:35:11 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 📋 Extracting and storing help topics to Excel.
+2025-09-02 09:35:12 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:12 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:12 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:12 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🏠 Clicking on the home logo to return to homepage.
+2025-09-02 09:35:13 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🔗 Current URL after clicking home logo: https://www.urbanladder.com/
+2025-09-02 09:35:13 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:13 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:13 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:13 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:35:13 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:35:13 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Starting search for 'Being at Home' using filter from JSON
+2025-09-02 09:35:14 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:14 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:14 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:16 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:16 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:16 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:17 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:17 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:17 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:19 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:19 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:19 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:20 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:20 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: edge
+2025-09-02 09:35:20 [TestNG-tests-2] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:35:22 [TestNG-tests-2] ERROR com.urbanladder.base.DriverSetup - Failed to initialize WebDriver: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-09-02 09:35:34 [TestNG-tests-1] ERROR com.urbanladder.utils.WebDriverUtil - Failed to click element: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=138.0.7204.158)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [332ef85701fad224f91b3b77dc56fe69, clickElement {id=f.94602DBF3B83E5167183451F81401D18.d.99E9460E9534FE77BD442351785378A4.e.291}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\2421218\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61388}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61388/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (332ef85701fad224f91b3b77dc56fe69)] -> xpath: //*[@id='search_button']/span]
+Session ID: 332ef85701fad224f91b3b77dc56fe69
+2025-09-02 09:35:34 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:35:34 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:35:34 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Starting search for 'Being at Home' using filter from JSON
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Search completed
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Capturing top three items from search results
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Top three items captured and stored in Excel
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Verifying item names are written to Excel sheet
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Excel write operation completed
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:35:36 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:35:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Clicking on the main logo to navigate to homepage
+2025-09-02 09:35:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Navigation to homepage triggered
+2025-09-02 09:35:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Verifying redirection to homepage
+2025-09-02 09:35:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Successfully redirected to homepage: https://www.urbanladder.com/
+2025-09-02 09:35:38 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:35:38 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:35:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Navigating to Study Chairs section...
+2025-09-02 09:35:38 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully hovered over element
+2025-09-02 09:35:53 [TestNG-tests-1] ERROR com.urbanladder.utils.WebDriverUtil - Failed to click element: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (332ef85701fad224f91b3b77dc56fe69)] -> xpath: //span[normalize-space()='Study Chairs']] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\2421218\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61388}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61388/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 332ef85701fad224f91b3b77dc56fe69
+2025-09-02 09:35:53 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Navigation to Study Chairs completed.
+2025-09-02 09:35:53 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Capturing top three study chair names and prices...
+2025-09-02 09:35:53 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Chair details captured successfully.
+2025-09-02 09:35:53 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Product details have been written to the Excel sheet.
+2025-09-02 09:35:53 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Clicking on the main logo to return to homepage...
+2025-09-02 09:35:54 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - User redirected to homepage.
+2025-09-02 09:35:54 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Verifying homepage redirection...
+2025-09-02 09:35:54 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Successfully redirected to homepage.
+2025-09-02 09:35:54 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:35:54 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:35:55 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Clicking on the Bookshelves section...
+2025-09-02 09:35:56 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:35:56 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Bookshelves section clicked.
+2025-09-02 09:35:56 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Applying price filter...
+2025-09-02 09:35:58 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Price filter applied.
+2025-09-02 09:35:58 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Selecting storage type: Open
+2025-09-02 09:36:13 [TestNG-tests-1] ERROR com.urbanladder.utils.WebDriverUtil - Failed to click element: element not interactable
+  (Session info: chrome=138.0.7204.158)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [332ef85701fad224f91b3b77dc56fe69, clickElement {id=f.94602DBF3B83E5167183451F81401D18.d.DD1089FB09AB5119CCCA825383188C96.e.689}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\2421218\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61388}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61388/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (332ef85701fad224f91b3b77dc56fe69)] -> xpath: //label[normalize-space()='Open']]
+Session ID: 332ef85701fad224f91b3b77dc56fe69
+2025-09-02 09:36:13 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Storage type selected: Open
+2025-09-02 09:36:13 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Excluding out-of-stock items...
+2025-09-02 09:36:13 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:36:13 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Out-of-stock items excluded.
+2025-09-02 09:36:13 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Capturing top 3 bookshelves and storing in Excel...
+2025-09-02 09:36:15 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Bookshelf data captured and stored successfully.
+2025-09-02 09:36:15 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Verifying homepage redirection...
+2025-09-02 09:36:15 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Successfully redirected to homepage.
+2025-09-02 09:36:15 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:36:15 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:36:15 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Navigating to the Hyderabad store section...
+2025-09-02 09:36:15 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully hovered over element
+2025-09-02 09:36:19 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:36:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Successfully navigated to Hyderabad store section.
+2025-09-02 09:36:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Capturing list of Hyderabad store names...
+2025-09-02 09:36:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Store names captured.
+2025-09-02 09:36:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Storing Hyderabad store names in Excel sheet...
+2025-09-02 09:36:20 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Store names successfully written to Excel.
+2025-09-02 09:36:20 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Verifying homepage redirection...
+2025-09-02 09:36:20 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Successfully redirected to homepage.
+2025-09-02 09:36:21 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:36:21 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:36:21 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Searching for product using JSON data...
+2025-09-02 09:36:21 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:36:23 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully sent keys: sofa
+2025-09-02 09:36:23 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Product search completed.
+2025-09-02 09:36:23 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Adding first product to wishlist...
+2025-09-02 09:36:23 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully hovered over element
+2025-09-02 09:36:23 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully scrolled to element
+2025-09-02 09:36:24 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Product added to wishlist.
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Verifying product in wishlist...
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Product verification completed.
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Verifying homepage redirection...
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Current URL after wishlist action: https://www.urbanladder.com/wishlist?src=header
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Redirection is valid. User is on: https://www.urbanladder.com/wishlist?src=header
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:36:25 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:36:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Attempting to click on the View Product button
+2025-09-02 09:36:29 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:36:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Clicked on the View Product button successfully
+2025-09-02 09:36:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Attempting to add the product to the cart
+2025-09-02 09:36:32 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:36:32 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Product added to the cart successfully
+2025-09-02 09:36:32 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Attempting to proceed to checkout
+2025-09-02 09:36:36 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:36:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Proceeded to checkout successfully
+2025-09-02 09:36:36 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:36:36 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:36:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 📦 Filling shipping address form with valid data from sheet: valid
+2025-09-02 09:36:36 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 📥 Reading valid shipping address data from Excel...
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 🔍 Submit button class attribute: continue button primary action-button
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - ✅ 'Save and Continue' button is enabled for valid data.
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ✅ Shipping address form filled with valid data.
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 🔍 Checking if 'Save and Continue' button is enabled...
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ✅ 'Save and Continue' button is enabled as expected.
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 📦 Filling shipping address form with invalid data from sheet: Invalid
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 📥 Reading invalid shipping address data from Excel...
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 🔍 Submit button class attribute: continue button primary action-button
+2025-09-02 09:36:37 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - ✅ 'Save and Continue' button is disabled for invalid data.
+2025-09-02 09:36:38 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - ❗ Pincode error captured: Sorry! We don't ship to this pincode currently.
+2025-09-02 09:36:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ❌ Shipping address form filled with invalid data.
+2025-09-02 09:36:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 🔍 Checking if 'Save and Continue' button is disabled and error message is shown...
+2025-09-02 09:36:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ✅ 'Save and Continue' button is disabled and error message displayed: Sorry! We don't ship to this pincode currently.
+2025-09-02 09:36:38 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:36:38 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Closing browser for thread: TestNG-tests-1
+2025-09-02 09:36:44 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Browser closed successfully for thread
+2025-09-02 09:46:14 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Initializing WebDriver for OS: windows and browser: chrome
+2025-09-02 09:46:14 [TestNG-tests-1] INFO  com.urbanladder.utils.ConfigReader - Configuration properties loaded successfully
+2025-09-02 09:46:14 [TestNG-tests-1] INFO  com.urbanladder.utils.ConfigReader - Allure properties loaded successfully
+2025-09-02 09:46:14 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Execution environment: local
+2025-09-02 09:46:18 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - WebDriver initialized successfully for thread: TestNG-tests-1
+2025-09-02 09:46:18 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Launching browser and navigating to Urban Ladder home page.
+2025-09-02 09:46:18 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Navigating to application URL: https://www.urbanladder.com/
+2025-09-02 09:46:21 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Clicking on the profile icon.
+2025-09-02 09:46:21 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:46:21 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Clicking on the login option.
+2025-09-02 09:46:21 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:46:24 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Entering credentials and submitting the login form.
+2025-09-02 09:46:25 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully sent keys: chepurusahithi@gmail.com
+2025-09-02 09:46:25 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully sent keys: Sahithi@6281
+2025-09-02 09:46:27 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:46:27 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Verifying login success.
+2025-09-02 09:46:27 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Checking visibility of Facebook icon.
+2025-09-02 09:46:28 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully scrolled to element
+2025-09-02 09:46:28 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Facebook icon visible: true
+2025-09-02 09:46:28 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Checking visibility of Twitter icon.
+2025-09-02 09:46:28 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Twitter icon visible: true
+2025-09-02 09:46:28 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Clicking on the home logo.
+2025-09-02 09:46:30 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HomePageSteps - Current URL after clicking home logo: https://www.urbanladder.com/
+2025-09-02 09:46:31 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:46:31 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:46:31 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🌐 Launching browser and navigating to Urban Ladder home page.
+2025-09-02 09:46:31 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Navigating to application URL: https://www.urbanladder.com/
+2025-09-02 09:46:32 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🆘 Clicking on the Help link.
+2025-09-02 09:46:33 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:46:33 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 📋 Extracting and storing help topics to Excel.
+2025-09-02 09:46:34 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🏠 Clicking on the home logo to return to homepage.
+2025-09-02 09:46:35 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.HelpPageSteps - 🔗 Current URL after clicking home logo: https://www.urbanladder.com/
+2025-09-02 09:46:36 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:46:36 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:46:36 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Starting search for 'Being at Home' using filter from JSON
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Search completed
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Capturing top three items from search results
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Top three items captured and stored in Excel
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Verifying item names are written to Excel sheet
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Excel write operation completed
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:46:38 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:46:38 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Clicking on the main logo to navigate to homepage
+2025-09-02 09:46:39 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Navigation to homepage triggered
+2025-09-02 09:46:39 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Verifying redirection to homepage
+2025-09-02 09:46:39 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BeingAtHomeSteps - Successfully redirected to homepage: https://www.urbanladder.com/
+2025-09-02 09:46:40 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:46:40 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:46:40 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Navigating to Study Chairs section...
+2025-09-02 09:46:40 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully hovered over element
+2025-09-02 09:46:42 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:46:44 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Navigation to Study Chairs completed.
+2025-09-02 09:46:44 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Capturing top three study chair names and prices...
+2025-09-02 09:46:44 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Chair details captured successfully.
+2025-09-02 09:46:44 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Product details have been written to the Excel sheet.
+2025-09-02 09:46:44 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Clicking on the main logo to return to homepage...
+2025-09-02 09:46:45 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - User redirected to homepage.
+2025-09-02 09:46:45 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Verifying homepage redirection...
+2025-09-02 09:46:45 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StudyChairSteps - Successfully redirected to homepage.
+2025-09-02 09:46:45 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:46:45 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:46:45 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Clicking on the Bookshelves section...
+2025-09-02 09:46:47 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:46:47 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Bookshelves section clicked.
+2025-09-02 09:46:47 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Applying price filter...
+2025-09-02 09:47:18 [TestNG-tests-1] ERROR com.urbanladder.utils.WebDriverUtil - Element not visible within timeout: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='selrange-filter']' (tried for 15 second(s) with 500 milliseconds interval)
+2025-09-02 09:47:18 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Price filter applied.
+2025-09-02 09:47:18 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Selecting storage type: Open
+2025-09-02 09:47:19 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Storage type selected: Open
+2025-09-02 09:47:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Excluding out-of-stock items...
+2025-09-02 09:47:19 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Out-of-stock items excluded.
+2025-09-02 09:47:19 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Capturing top 3 bookshelves and storing in Excel...
+2025-09-02 09:47:20 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Bookshelf data captured and stored successfully.
+2025-09-02 09:47:20 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Verifying homepage redirection...
+2025-09-02 09:47:21 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.BookshelvesSteps - Successfully redirected to homepage.
+2025-09-02 09:47:21 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:47:21 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:47:21 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Navigating to the Hyderabad store section...
+2025-09-02 09:47:21 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully hovered over element
+2025-09-02 09:47:24 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:24 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Successfully navigated to Hyderabad store section.
+2025-09-02 09:47:24 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Capturing list of Hyderabad store names...
+2025-09-02 09:47:24 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Store names captured.
+2025-09-02 09:47:24 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Storing Hyderabad store names in Excel sheet...
+2025-09-02 09:47:24 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Store names successfully written to Excel.
+2025-09-02 09:47:24 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Verifying homepage redirection...
+2025-09-02 09:47:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.StoresSteps - Successfully redirected to homepage.
+2025-09-02 09:47:25 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:47:25 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:47:25 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Searching for product using JSON data...
+2025-09-02 09:47:25 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:27 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully sent keys: sofa
+2025-09-02 09:47:27 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Product search completed.
+2025-09-02 09:47:27 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Adding first product to wishlist...
+2025-09-02 09:47:27 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully hovered over element
+2025-09-02 09:47:27 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully scrolled to element
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Product added to wishlist.
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Verifying product in wishlist...
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Product verification completed.
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Verifying homepage redirection...
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Current URL after wishlist action: https://www.urbanladder.com/wishlist?src=header
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.WishlistSteps - Redirection is valid. User is on: https://www.urbanladder.com/wishlist?src=header
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:47:29 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:47:29 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Attempting to click on the View Product button
+2025-09-02 09:47:33 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:33 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Clicked on the View Product button successfully
+2025-09-02 09:47:33 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Attempting to add the product to the cart
+2025-09-02 09:47:37 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Product added to the cart successfully
+2025-09-02 09:47:37 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Attempting to proceed to checkout
+2025-09-02 09:47:40 [TestNG-tests-1] INFO  com.urbanladder.utils.WebDriverUtil - Successfully clicked element
+2025-09-02 09:47:40 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.CheckoutSteps - Proceeded to checkout successfully
+2025-09-02 09:47:40 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:47:41 [TestNG-tests-1] WARN  com.urbanladder.base.DriverSetup - WebDriver already initialized for this thread
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 📦 Filling shipping address form with valid data from sheet: valid
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 📥 Reading valid shipping address data from Excel...
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 🔍 Submit button class attribute: continue button primary action-button
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - ✅ 'Save and Continue' button is enabled for valid data.
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ✅ Shipping address form filled with valid data.
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 🔍 Checking if 'Save and Continue' button is enabled...
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ✅ 'Save and Continue' button is enabled as expected.
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 📦 Filling shipping address form with invalid data from sheet: Invalid
+2025-09-02 09:47:41 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 📥 Reading invalid shipping address data from Excel...
+2025-09-02 09:47:42 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - 🔍 Submit button class attribute: continue button primary action-button
+2025-09-02 09:47:42 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - ✅ 'Save and Continue' button is disabled for invalid data.
+2025-09-02 09:47:42 [TestNG-tests-1] INFO  com.urbanladder.pages.AddressPage - ❗ Pincode error captured: Sorry! We don't ship to this pincode currently.
+2025-09-02 09:47:42 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ❌ Shipping address form filled with invalid data.
+2025-09-02 09:47:42 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - 🔍 Checking if 'Save and Continue' button is disabled and error message is shown...
+2025-09-02 09:47:42 [TestNG-tests-1] INFO  com.urbanladder.stepdefinitions.AddressSteps - ✅ 'Save and Continue' button is disabled and error message displayed: Sorry! We don't ship to this pincode currently.
+2025-09-02 09:47:43 [TestNG-tests-1] INFO  com.urbanladder.Hooks.Hooks - Attaching screenshot to allure report
+2025-09-02 09:47:43 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Closing browser for thread: TestNG-tests-1
+2025-09-02 09:47:49 [TestNG-tests-1] INFO  com.urbanladder.base.DriverSetup - Browser closed successfully for thread
